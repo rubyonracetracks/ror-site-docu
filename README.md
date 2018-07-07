@@ -1,5 +1,7 @@
 # Welcome
 
+[![Build Status](https://semaphoreci.com/api/v1/jhsu802701/ror-site-docu/branches/master/badge.svg)](https://semaphoreci.com/jhsu802701/ror-site-docu)
+
 This app was created with the aid of Docusaurus Neutrino, which automatically creates a new Docusaurus app from scratch.  It's like Rails Neutrino but for Docusaurus instead.
 
 ## Scripts
