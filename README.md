@@ -5,6 +5,7 @@
 Welcome to the source code of the Ruby on Racetracks web site!  This app was created with the aid of Docusaurus Neutrino, which automatically creates a new Docusaurus app from scratch.  It's like Rails Neutrino but for Docusaurus instead.
 
 ## Scripts
+* clean.sh: Run this script to remove the website/build, website/i18n, and website/node_modules directories.  The files in these directories are automatically created when you build the app and are NOT part of the source code.  Deleting these directories makes it easier to do a keyword search of the source code.
 * all.sh: This script runs test_app.sh and test_code.sh.
 * credentials.sh: Run this script after you reset your Docker container to enter your Git name and email address.
 * test_app.sh: This script runs the commands "npm install" and "npm test" in the website directory.
