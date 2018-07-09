@@ -24,9 +24,11 @@ class Gitpages extends React.Component {
             <header className="postHeader">
               <h1>Git Repositories</h1>
             </header>
-            <h2><a href="https://github.com/rubyonracetracks">GitHub</a></h2>
-            <h2><a href="https://bitbucket.org/rubyonracetracks/">BitBucket</a></h2>
-            <h2><a href="https://gitlab.com/rubyonracetracks/">GitLab</a></h2>
+            <ul>
+              <li><a href="https://github.com/rubyonracetracks">GitHub</a></li>
+              <li><a href="https://bitbucket.org/rubyonracetracks/">BitBucket</a></li>
+              <li><a href="https://gitlab.com/rubyonracetracks/">GitLab</a></li>
+            </ul>
           </div>
         </Container>
       </div>
