@@ -10,6 +10,12 @@ echo 'NOTE: If you are using a non-zero port offset, the correct port numbers wi
 echo "******************************************************************************************"
 cat /home/winner/shared/ports.txt
 
-echo '----------------------------'
-echo "cd $PWD/website && npm start"
-cd $PWD/website && npm start
+DIR_MAIN=$PWD
+
+echo '--------------------------------------------'
+echo "cd $DIR_MAIN/website && npm run-script build"
+cd $DIR_MAIN/website && npm run-script build
+
+echo '---------------------------------'
+echo "cd $DIR_MAIN/website && npm start"
+cd $DIR_MAIN/website && npm start
