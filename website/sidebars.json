@@ -1,7 +1,6 @@
 {
   "docs": {
-    "Getting Started": ["start", "doc2"],
-    "First Category": ["start", "doc2"],
+    "Get Started": ["start", "docker"],
     "Second Category": ["doc3"]
   }
 }

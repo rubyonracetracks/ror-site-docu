@@ -1,6 +1,7 @@
 ---
-id: doc2
-title: document number 2
+id: docker
+title: Docker
+sidebar_label: Docker
 ---
 
 This is a link to [another document.](doc3.md)  
