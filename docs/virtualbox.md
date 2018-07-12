@@ -7,6 +7,9 @@ sidebar_label: VirtualBox
 ## How do I install a Linux virtual machine?
 Go to the [VirtualBox Tutorial](https://github.com/rubyonracetracks/tutorial-virtualbox).
 
+## What is a virtual machine?
+A virtual machine is a simulated second computer within your physical computer. Like a physical machine, a virtual machine can be booted up and have an OS installed to it.
+
 ## Do I need to install VirtualBox?
 * A virtual machine is required if any of the following circumstances apply to you:
   * You are on a Windows machine, and getting rid of Windows is not an option.
@@ -32,3 +35,12 @@ Docker for Mac is slow.  Docker runs faster on a Linux virtual machine within Vi
 
 ## What's wrong with using Docker for Windows?
 The Ruby on Racetracks way relies on Bash scripts to start up Docker containers.  Unfortunately, I was unable to get Bash scripts to work in Windows.  (The cygwin program didn't work.)
+
+## Why do you prefer SparkyLinux as the host system containing Docker?
+* SparkyLinux is fast, lightweight, well-polished, well-supported, and user-friendly. It’s so fast and lightweight that it even runs quite well on 10-year-old PCs.
+* I use a stable edition of SparkyLinux for maximum stability and minimum maintenance.
+* When Debian first released Debian Stretch as the new Debian Stable, SparkyLinux was the first to provide a new release based on it.
+
+## Why don’t you use Ubuntu?
+* I tried the Unity interface, and it was unintuitive to me.
+* The Ubuntu base has a high overhead, which means that it requires far more memory, processor speed, and other resources than SparkyLinux Linux and other Debian-based distros that bypass the Ubuntu base. This high overhead is especially significant if your computer is more than a few years old, or if you’re relying on a virtual machine.
