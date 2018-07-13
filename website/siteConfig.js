@@ -34,8 +34,8 @@ const siteConfig = {
   ],
 
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
+  headerIcon: 'img/ruby_on_racetracks.jpg',
+  footerIcon: 'img/ruby_on_racetracks.jpg',
   favicon: 'img/favicon.png',
 
   /* colors for website */
