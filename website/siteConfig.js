@@ -36,7 +36,6 @@ const siteConfig = {
   /* path to images for header/footer */
   headerIcon: 'img/ruby_on_racetracks.jpg',
   footerIcon: 'img/ruby_on_racetracks.jpg',
-  favicon: 'img/favicon.png',
 
   /* colors for website */
   colors: {
