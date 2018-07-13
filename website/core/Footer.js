@@ -35,7 +35,14 @@ class Footer extends React.Component {
           />
         </a>
         <section className="copyright">{this.props.config.copyright}</section>
-        <section className="copyright">This site was made with Docusaurus.</section>
+        <section className="copyright">This site was made with Docusaurus.<br />
+        {this.props.config.footerIcon && (
+          <img
+            src={this.props.config.baseUrl + this.props.config.footerIcon}
+            alt={this.props.config.title}
+          />
+        )}
+        </section>
       </footer>
     );
   }
