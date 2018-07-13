@@ -1,6 +1,6 @@
 {
   "docs": {
     "Get Started": ["start", "virtualbox", "docker"],
-    "Second Category": ["doc3"]
+    "Creating Apps": ["create_gem", "generic_app", "rails_neutrino", "docusaurus_neutrino"]
   }
 }
