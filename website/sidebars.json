@@ -1,6 +1,9 @@
 {
   "docs": {
     "Get Started": ["start", "virtualbox", "docker"],
-    "Creating Apps": ["create_gem", "generic_app", "rails_neutrino", "docusaurus_neutrino"]
+    "Creating Apps": ["create_gem", "generic_app", "rails_neutrino", "docusaurus_neutrino"],
+    "Cheat Sheets": ["ref_git", "ref_rails", "ref_legacy"],
+    "The New Ruby.MN": ["tutorial_rubymn2_short", "tutorial_rubymn2_long"],
+    "Example Apps": ["example_adoptatree", "example_rubymn2"]
   }
 }
