@@ -97,19 +97,6 @@ const Block = props => (
   </Container>
 );
 
-const Description = props => (
-  <Block background="dark">
-    {[
-      {
-        content: 'This is another description of how this project is useful',
-        image: imgUrl('ruby_on_racetracks.jpg'),
-        imageAlign: 'right',
-        title: 'Description',
-      },
-    ]}
-  </Block>
-);
-
 class Index extends React.Component {
   render() {
     let language = this.props.language || '';
@@ -117,9 +104,25 @@ class Index extends React.Component {
     return (
       <div>
         <HomeSplash language={language} />
-        <div className="mainContainer">
-          <Description />
-        </div>
+        <Container padding={['bottom', 'top']} background="dark">
+        <h2>Welcome to Ruby on Racetracks!</h2>
+
+        Ruby on Racetracks combines the power of Ruby on Rails with the speed of NASCAR. Ruby on Rails is a great framework, but the stock procedures are so slow and complicated. Ruby on Racetracks uses an infrastructure that provides the elements needed for all or most projects already pre-installed and thus allows you to bypass many of the slow and bureaucratic steps needed to get started. Doubling down on automation, cheat sheets, pre-installation, and good standard operating procedures enables not only much faster work but also much better quality control as well.
+        <br /><br />
+        In other words, Ruby on Racetracks has the same basic selling points as the much-advertised Hertz #1 Club Gold program, which touts the convenience and efficiency of bypassing the line at the rental counter. In contrast, using the time-consuming stock procedures provides an experience analogous to that of renting a car from Not Exactly Hertz in a Hertz commercial and enduring bad experiences like a long line at the rental counter, getting soaked by a torrential downpour, getting lost, and getting stranded.
+        <br /><br />
+        Ruby on Racetracks enables faster Ruby on Rails development while doubling down on quality control by adhering to these core principles:
+          <ul>
+            <li>Basic and routine tasks should be quick and easy.</li>
+            <li>Maintenance should be quick and easy. If it isn’t, this magnifies the temptation to neglect it.</li>
+            <li>A photographic memory should NOT be a requirement.</li>
+            <li>That old Holiday Inn slogan was correct. The best surprise is no surprise.</li>
+            <li>Large tasks should be broken down into many smaller tasks.</li>
+          </ul>
+        Long processes are the biggest obstacles in Ruby on Rails development. Even worse are long processes that require babysitting. It’s one thing for a long process to proceed without your intervention. It’s even worse when a process cannot proceed without your constant intervention. Installing Windows is a classic example of this.
+        <br /><br />
+        It adds insult to injury when a long process fails. At least when a short process fails, it doesn’t take up that much time, you don’t have to wait to see the failure, and you can take corrective action that much sooner.
+        </Container>
       </div>
     );
   }
