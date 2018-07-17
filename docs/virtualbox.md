@@ -5,7 +5,7 @@ sidebar_label: VirtualBox
 ---
 
 ## How do I install a Linux virtual machine?
-Go to the [VirtualBox Tutorial](https://github.com/rubyonracetracks/tutorial-virtualbox).
+Go to the [VirtualBox Tutorial](http://www.virtualboxtutorial.com/).
 
 ## What is a virtual machine?
 A virtual machine is a simulated second computer within your physical computer. Like a physical machine, a virtual machine can be booted up and have an OS installed to it.
