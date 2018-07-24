@@ -8,7 +8,7 @@ sidebar_label: Docker
 You MAY need [VirtualBox](virtualbox.html).
 
 ## How do I install Docker?
-Go to the [Docker Tutorial](https://github.com/rubyonracetracks/tutorial-docker-stretch).
+Go to the [Docker Tutorial](http://www.differentdockertutorial.com/).
 
 ## Why is Docker so great?
 * Docker provides a virtual development environment that is independent of the host OS. Docker images with pre-installed Ruby on Rails can be created and used for working on Ruby gems and Rails projects. Because the software is pre-installed in Docker images, you can reset your Docker container to its original conditions in just a few SECONDS, not hours. By using a custom Docker image in tandem with a 1-step build script in your app’s source code, you can reset your development environment to its original conditions AND be back in business in just a few minutes, not hours.
