@@ -3,4 +3,4 @@ id: ref_legacy
 title: Legacy Projects
 ---
 
-https://github.com/rubyonracetracks/cheat_sheets/blob/master/rails_legacy_projects.md
+Go to <a href="https://www.legacyrailsapps.com/">Legacy Rails Apps</a> for details on how to apply the Ruby on Racetracks principles to legacy Rails apps.
