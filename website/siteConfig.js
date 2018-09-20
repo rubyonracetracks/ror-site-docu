@@ -30,7 +30,8 @@ const siteConfig = {
     {page: 'entertainment', label: 'Entertainment'},
     {page: 'git', label: 'Git'},
     {page: 'prerequisites', label: 'Prerequisites'},
-    {page: 'help', label: 'Help'}
+    {page: 'help', label: 'Help'},
+    {page: 'links', label: 'Links'}
   ],
 
   /* path to images for header/footer */
