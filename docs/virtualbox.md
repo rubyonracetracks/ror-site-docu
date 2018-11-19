@@ -37,10 +37,10 @@ Docker for Mac is slow.  Docker runs faster on a Linux virtual machine within Vi
 The Ruby on Racetracks way relies on Bash scripts to start up Docker containers.  Unfortunately, I was unable to get Bash scripts to work in Windows.  (The cygwin program didn't work.)
 
 ## Why do you prefer SparkyLinux as the host system containing Docker?
-* SparkyLinux is fast, lightweight, well-polished, well-supported, and user-friendly. It’s so fast and lightweight that it even runs quite well on 10-year-old PCs.
+* SparkyLinux is fast, lightweight, well-polished, well-supported, and user-friendly. It's so fast and lightweight that it even runs quite well on 10-year-old PCs.
 * I use a stable edition of SparkyLinux for maximum stability and minimum maintenance.
 * When Debian first released Debian Stretch as the new Debian Stable, SparkyLinux was the first to provide a new release based on it.
 
-## Why don’t you use Ubuntu?
+## Why don't you use Ubuntu?
 * I tried the Unity interface, and it was unintuitive to me.
-* The Ubuntu base has a high overhead, which means that it requires far more memory, processor speed, and other resources than SparkyLinux Linux and other Debian-based distros that bypass the Ubuntu base. This high overhead is especially significant if your computer is more than a few years old, or if you’re relying on a virtual machine.
+* The Ubuntu base has a high overhead, which means that it requires far more memory, processor speed, and other resources than SparkyLinux Linux and other Debian-based distros that bypass the Ubuntu base. This high overhead is especially significant if your computer is more than a few years old, or if you're relying on a virtual machine.
