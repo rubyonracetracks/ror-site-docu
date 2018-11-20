@@ -27,6 +27,8 @@ class Links extends React.Component {
             <ul>
               <li><a href="https://www.virtualboxtutorial.com/">VirtualBox Tutorial</a></li>
               <li><a href="https://www.differentdockertutorial.com/">Different Docker Tutorial</a></li>
+              <li><a href="https://www.railsneutrino.com/">Rails Neutrino</a></li>
+              <li><a href="https://www.genericapp.net/">Generic App</a></li>
               <li><a href="https://www.legacyrailsapps.com/">Legacy Rails Apps</a></li>
             </ul>
           </div>
