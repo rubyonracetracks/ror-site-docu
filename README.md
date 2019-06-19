@@ -1,6 +1,7 @@
 # Ruby on Racetracks Web Site
 
 [![Build Status](https://semaphoreci.com/api/v1/jhsu802701/ror-site-docu/branches/master/badge.svg)](https://semaphoreci.com/jhsu802701/ror-site-docu)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a888d52d-0770-4b00-ad16-18ac100a30b4/deploy-status)](https://app.netlify.com/sites/ror-site-docu/deploys)
 
 Welcome to the source code of the Ruby on Racetracks web site!  This app was created with the aid of Docusaurus Neutrino, which automatically creates a new Docusaurus app from scratch.  It's like Rails Neutrino but for Docusaurus instead.
 
