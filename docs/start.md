@@ -10,4 +10,4 @@ sidebar_label: Ruby on Rails Setup
 * The official host OS of Ruby on Racetracks is SparkyLinux with a Debian Stable base and the LXDE desktop.  If your host OS is something very different (such as MacOS or Windows), you can install SparkyLinux on a virtual machine with VirtualBox.
 
 ## Why is the Ruby on Racetracks way better than the conventional way?
-* Under the Ruby on Racetracks way, the Ruby on Rails development environment on your local machine can be ready to roll in minutes.  The conventional way requires hours of babysitting long processes.
+Under the Ruby on Racetracks way, the Ruby on Rails development environment on your local machine can be ready to roll in minutes.  The conventional way requires hours of babysitting long processes.
