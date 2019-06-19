@@ -28,7 +28,7 @@ class Gitpages extends React.Component {
               <li><a href="https://github.com/rubyonracetracks">GitHub</a></li>
               <li><a href="https://bitbucket.org/rubyonracetracks/">BitBucket</a></li>
               <li><a href="https://gitlab.com/rubyonracetracks/">GitLab</a></li>
-              <li><a href="https://bitbucket.org/rubyonracetracks/ror-site-docu/">This site's source code</a></li>
+              <li><a href="https://github.com/rubyonracetracks/ror-site-docu/">This site's source code</a></li>
             </ul>
           </div>
         </Container>
