@@ -29,21 +29,21 @@ class Entertainment extends React.Component {
             <h2>Holiday Inn</h2>
             The best surprise is no surprise.
             <br />
-            <iframe width="420" height="315" src="http://www.youtube.com/embed/WNh5uY1ePcA"></iframe>
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/WNh5uY1ePcA"></iframe>
 
             <h2>Not Exactly Hertz</h2>
             The “Not Exactly Hertz” commercials inspired my slogan for Ruby on Racetracks.
             <ul>
-              <li><a href="http://www.adforum.com/creative-work/ad/player/28426/johnson/hertz">Johnson</a>: Is he buying it?  Not exactly.</li>
-              <li><a href="http://www.adforum.com/creative-work/ad/player/28423/boss/hertz">Boss</a>: Still counting on that promotion?  Not exactly.</li>
-              <li><a href="http://www.adforum.com/creative-work/ad/player/28425/horserace/hertz">Horserace</a>: The executives are at the gate . . . .</li>
+              <li><a href="https://www.adforum.com/creative-work/ad/player/28426/johnson/hertz">Johnson</a>: Is he buying it?  Not exactly.</li>
+              <li><a href="https://www.adforum.com/creative-work/ad/player/28423/boss/hertz">Boss</a>: Still counting on that promotion?  Not exactly.</li>
+              <li><a href="https://www.adforum.com/creative-work/ad/player/28425/horserace/hertz">Horserace</a>: The executives are at the gate . . . .</li>
               <li>Vacation: Honey, this is not exactly Hertz, OK?</li>
             </ul>
-            <iframe width="420" height="315" src="http://www.youtube.com/embed/OmLtaJjfz2Y"></iframe>
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/OmLtaJjfz2Y"></iframe>
             <ul>
               <li>Jeff Dunham: So you still think I’m the dummy?</li>
             </ul>
-            <iframe width="420" height="315" src="http://www.youtube.com/embed/EuOHHA0KTww"></iframe>
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/EuOHHA0KTww"></iframe>
 
           </div>
         </Container>
